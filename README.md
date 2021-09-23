@@ -1,3 +1,3 @@
 # p_bootcamp21
-Topic wise codes while doing python bootcamp 2021 included.
+Topic wise codes while learning python included.
 This repo also have some projects.
